@@ -14,11 +14,13 @@ Using Python, Cocos2D
 ![image](https://github.com/Imeamangryang/GameProgramming_Study/assets/100024733/c158a812-8ac7-4dc7-8bb0-303cf1cf0c55)
 
 # Othello Game 
-with Reinforcement Learning
+with Reinforcement Learning 
+
 ![image](https://github.com/Imeamangryang/GameProgramming_Study/assets/100024733/4674efa3-7f64-47a7-8e16-a0b8225cba40)
 
 # CocosInvaders
 Using Cocos2D
+
 ![image](https://github.com/Imeamangryang/GameProgramming_Study/assets/100024733/21f8be61-32a7-45be-812f-a21e2f7266d3)
 ![image](https://github.com/Imeamangryang/GameProgramming_Study/assets/100024733/0e305aba-aca2-448e-ab7d-636eabd428fa)
 
